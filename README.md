@@ -1,29 +1,7 @@
 # quiz-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Here you can choose a category and solve a quiz. This is my first project with Vue.
 
-## Recommended IDE Setup
+Technologies: HTML, CSS, JavaScript, webpack, vue
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Github: https://github.com/prospero-apps/vue 
