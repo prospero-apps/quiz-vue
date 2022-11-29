@@ -1,7 +1,6 @@
 {
   "name": "quiz-vue",
   "version": "0.0.0",
-  "homepage": "http://prospero-apps.github.io/quiz-vue",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
